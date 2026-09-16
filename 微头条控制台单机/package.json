@@ -1,0 +1,14 @@
+{
+  "name": "weitoutiao-tui",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/main.js",
+    "dev": "bun run src/main.js"
+  },
+  "dependencies": {
+    "vue": "^3.5.42",
+    "vue-termui": "^0.3.0"
+  }
+}
